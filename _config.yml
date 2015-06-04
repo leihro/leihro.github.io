@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               1+1=30
+tagline:             Lei's Blog
+url:                 
 paginate:            1
 baseurl:             ""
 
@@ -18,13 +18,7 @@ sass:
   sass_dir:          _sass
   style:            :compressed
 
-# About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+pages_list:
+  About: '/about'
+  Archive: '/archive'
 
-# Custom vars
-version:             1.0.0
-github:
-  repo:              https://github.com/poole/poole
