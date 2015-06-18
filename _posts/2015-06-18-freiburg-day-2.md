@@ -1,6 +1,4 @@
-#training second day
-
-###Agenda
+###Day 2 Agenda
 * from index.php to specific function of specific class (**exercise**: analyse search functionality)
 * db (adodb lite) manipulation (**exercise**: use CLI php to CRUD article data from db, article load() || articlelist selectString(), performance analysis with start/stopprofile)
 * classes hierarchy, mvc + components(decorator), class inheritance chain
