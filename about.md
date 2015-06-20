@@ -13,9 +13,9 @@ Learn more about lei and find him on [GitHub](https://github.com/leihro).
 
 Some features are still missing or wrong in this blog:
 
-* fix Archive Page link Problem
+* ~~fix Archive Page link Problem~~
 * homepage last 5 Posts
-* config scalfold, personalize it, (remove default _post, config _sass, index.html, license, readme, styles.scss)
+* config scalfold, personalize it, (remove default ~~_post~~, config _sass, index.html, license, readme, styles.scss)
 * label/category (and list) missing
 * pictures if needed, try not to use, but it could be helpful
 * more practice of markdown
