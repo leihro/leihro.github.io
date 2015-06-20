@@ -1,3 +1,8 @@
+---
+layout: post
+title: Day 1 in Freiburg
+---
+
 ### Day 1 Agenda
 * Shop Introduction thoery
 * Shop install and config **vagrant + xdebug**, jenkins && phpunit were ignored, short of time
