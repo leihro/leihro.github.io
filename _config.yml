@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               1+1=30
 tagline:             Lei's Blog
-url:                 
+url:                 "http://leihro.github.io"
 paginate:            3
 baseurl:             ""
 
