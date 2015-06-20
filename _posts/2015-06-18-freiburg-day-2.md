@@ -1,3 +1,8 @@
+---
+layout: post
+title: Day 2 in Freiburg
+---
+
 ###Day 2 Agenda
 * **Debug**: from index.php to specific function of specific class (**exercise 1**: analyse search functionality)
 * **db** (adodb lite) manipulation (**exercise 2**: use CLI php to CRUD article data from db, article load() && articlelist selectString(), performance analysis with start/stopprofile)
