@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 3 in Freiburg
+title: night after work
 ---
 
 ### 纽伦堡的夏夜
