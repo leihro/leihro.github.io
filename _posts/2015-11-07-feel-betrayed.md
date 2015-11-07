@@ -1,7 +1,9 @@
 ---
 layout: post
-title: trust in God is the only solution
+title: satisfy yourself before mercying others
 ---
+
+Or you will regret, it's painful
 
 ### feel lost && get frustrated
 never lived for me myself, always try to make others happy, 
